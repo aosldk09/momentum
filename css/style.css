@@ -133,3 +133,8 @@ img {
   justify-content: center;
   align-items: center;
 }
+
+#weather span {
+  font-size: 20px;
+  font-weight: 600;
+}
